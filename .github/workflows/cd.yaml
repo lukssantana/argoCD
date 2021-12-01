@@ -14,6 +14,6 @@ jobs:
         uses: docker/build-push-action@v1.1.0
         with:
           username: lukssantanna
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          password: Ls#@2021-2
           repository: lukssantanna/argocd
           tags: ${{ github.sha }}, latest

@@ -9,5 +9,5 @@ namespace: goapp
 
 images:
   - name: goapp
-    newName: goapp
+    newName: lukssantanna/argocd
     newTag: v1
