@@ -8,6 +8,6 @@ resources:
 namespace: goapp
 
 images:
-  - name: goapp
-    newName: lukssantanna/argocd
-    newTag: v1
+- name: goapp
+  newName: lukssantanna/argocd
+  newTag: bdbacd86680492257519b81e577650a286026ad2
