@@ -15,7 +15,6 @@ jobs:
         with:
           username: lukssantanna
           password: ${{ secrets.DOCKER_PASSWORD }}
-
           repository: lukssantanna/argocd
           tags: ${{ github.sha }}, latest
   deploy:
