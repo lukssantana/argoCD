@@ -10,4 +10,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: lukssantanna/argocd
-  newTag: bf329e17f12bb619605f6c2f7ddca7fa0a7945bd
+  newTag: a01cfa1bdf30e1e5f0b8dff51e1f1665fd8f7528
